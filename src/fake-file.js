@@ -5,3 +5,4 @@
 "Testing new commit";
 "Test of workflow run triggering";
 "asdjhkwerjk";
+"Test branch protection rules";
