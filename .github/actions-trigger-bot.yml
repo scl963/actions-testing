@@ -1,0 +1,4 @@
+name: Actions Trigger Config
+
+commandMapping:
+  "/run-ci": "CI"
