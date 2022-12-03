@@ -3,3 +3,4 @@
 "Here we go again. weriosdafoi";
 "asdadsfhjkfsadjkhfsdakjhl";
 "Testing new commit";
+"Test of workflow run triggering";
