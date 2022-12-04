@@ -14,8 +14,8 @@ on:
 jobs:
   # This workflow contains a single job called "build"
   call-test-one:
-    uses: ./.github/workflows/test-two.yml
+    uses: ./.github/workflows/test.yml
     secrets: inherit
   call-test-two:
-    uses: ./.github/workflows/test.yml
+    uses: ./.github/workflows/test-two.yml
     secrets: inherit
