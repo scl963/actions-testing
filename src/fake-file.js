@@ -7,7 +7,6 @@
 "Test branch protection rules";
 "weriuouiojhlkhj";
 "weroiuweriouerw";
-"wowerywuyasjdfha";
 "wreoiuweriouweiu";
 "weuyeryewryiuwerkhhk2";
 "wiuoewruerwuewruerwuiowriuorwoiurwe";
