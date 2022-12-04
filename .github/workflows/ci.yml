@@ -6,13 +6,18 @@ on:
   pull_request:
     types: [opened, reopened]
     branches: [ "main" ]
+  push:
+    branches:
+      - "main"
+    tags:
+      - "run-tests"
+  
   repository_dispatch:
     types: [CI]
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   call-test-one:
     uses: ./.github/workflows/test.yml
     secrets: inherit

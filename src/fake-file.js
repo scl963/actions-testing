@@ -5,8 +5,6 @@
 "Testing new commit";
 "Test branch protection rules";
 "weriuouiojhlkhj";
-"weroiuweriouerw";
 "wreoiuweriouweiu";
-"weuyeryewryiuwerkhhk2";
 "wiuoewruerwuewruerwuiowriuorwoiurwe";
 "weroiuweruoweruiower";
